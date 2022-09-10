@@ -9,9 +9,9 @@
  */
 int main(void)
 {
-	char low, e, q;
+	char i;
 
-	for (low = 'z'; low >= 'a'; low--)
+	for (i = 'z'; i >= 'a'; i--)
 		putchar(low);
 	putchar('\n');
 
