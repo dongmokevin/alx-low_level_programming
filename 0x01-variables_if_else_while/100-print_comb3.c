@@ -28,5 +28,7 @@ int main(void)
 		}
 		skipper++;
 	}
+	putchar('\n');
+
 	return (0);
 }
