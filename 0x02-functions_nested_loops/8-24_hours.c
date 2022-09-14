@@ -24,7 +24,7 @@ void jack_bauer(void)
 			if (sec < 10)
 				_putchar('0' + sec);
 			else
-				_putchhar(sec);
+				_putchar(sec);
 		}
 		_putchar('\n');
 	}
